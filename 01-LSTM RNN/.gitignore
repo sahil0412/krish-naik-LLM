@@ -1,0 +1,4 @@
+hamlet.txt
+next_word_lstm_model_with_early_stopping.h5
+next_word_lstm.h5
+tokenizer.pickle

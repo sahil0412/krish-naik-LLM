@@ -1,0 +1,33 @@
+langchain
+langchain_groq
+ipykernel
+python-dotenv
+
+# Data Ingestion
+langchain-community
+pypdf
+bs4
+lxml
+arxiv
+pymupdf
+wikipedia
+
+# Data Transformation
+langchain-text-splitters
+
+# Word Embeddings
+langchain-openai
+sentence_transformers
+langchain_huggingface
+
+# Vector Store
+chromadb
+faiss-cpu
+langchain_chroma
+
+# Deploying
+streamlit
+langserve
+fastapi
+uvicorn
+sse-starlette

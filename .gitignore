@@ -1,0 +1,5 @@
+## unwanted folders
+# artifacts/
+logs/
+EnvInstructions.md
+.env
